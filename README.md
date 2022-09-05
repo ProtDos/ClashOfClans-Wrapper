@@ -22,14 +22,10 @@ python3 main.py
 - requirements.txt installed
 - clash of clans api token
 
-
-## Requirements
-- Python 3.6+
-- pip
-- requirements.txt installed
-- discord user tokens
-
 ## Features
-- coming...
+- Player
+- League
+- Location
+- Clans
 
 ## Enjoy
